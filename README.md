@@ -4,7 +4,6 @@
           
 <h4>Header:</h4>
 
-<br>
 - Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.
 - Dropdown menu for mobile navigation.
 
@@ -34,10 +33,10 @@
 
 <h4>Responsive Design:</h4>
 
-Media queries to toggle visibility of navbar links and dropdown menu on smaller screens.
+- Media queries to toggle visibility of navbar links and dropdown menu on smaller screens.
 
 <h2>JavaScript</h2>
 
 <h4>Toggle Button:</h4>
 
-Toggles the dropdown menu visibility and changes the icon between hamburger and close (X) on click.
+- Toggles the dropdown menu visibility and changes the icon between hamburger and close (X) on click.
