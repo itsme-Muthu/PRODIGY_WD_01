@@ -2,41 +2,41 @@
 
 <h2>HTML</h2
           
-<h3>Header:</h3>
+<h4>Header:</h4>
 
 Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.
 Dropdown menu for mobile navigation.
 
-<h3>Main Section:</h3>
+<h4>Main Section:</h4>
 
 Hero section with welcome message and description.
 
 <h2>CSS</h2>
 
-<h3>Global Styles:</h3>
+<h4>Global Styles:</h4>
 
-Basic reset and default font.
+Basic reset and default font.<br>
 Black background with space image for the body.
 
-<h3>Header and Navbar:</h3>
+<h4>Header and Navbar:</h4>
 
-<h3>Flexbox layout for alignment.</h3>
+<h4>Flexbox layout for alignment.</h4>
 Navbar links and action button styled for desktop and hidden in mobile.
 
-<h3>Dropdown Menu:</h3>
+<h4>Dropdown Menu:</h4>
 
 Initially hidden, transitions in height, displayed in mobile view.
 
-<h3>Hero Section:</h3>
+<h4>Hero Section:</h4>
 
 Full-screen section with centered text.
 
-<h3>Responsive Design:</h3>
+<h4>Responsive Design:</h4>
 
 Media queries to toggle visibility of navbar links and dropdown menu on smaller screens.
 
 <h2>JavaScript</h2>
 
-<h3>Toggle Button:</h3>
+<h4>Toggle Button:</h4>
 
 Toggles the dropdown menu visibility and changes the icon between hamburger and close (X) on click.
