@@ -4,32 +4,33 @@
           
 <h4>Header:</h4>
 
-<br>Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.<br>
-Dropdown menu for mobile navigation.
+<br>
+- Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.
+- Dropdown menu for mobile navigation.
 
 <h4>Main Section:</h4>
 
-Hero section with welcome message and description.
+- Hero section with welcome message and description.
 
 <h2>CSS</h2>
 
 <h4>Global Styles:</h4>
 
-Basic reset and default font.<br>
-Black background with space image for the body.
+- Basic reset and default font.
+- Black background with space image for the body.
 
 <h4>Header and Navbar:</h4>
 
-Flexbox layout for alignment.<br>
-Navbar links and action buttons are styled for desktop and hidden in mobile.
+- Flexbox layout for alignment.<br>
+- Navbar links and action buttons are styled for desktop and hidden in mobile.
 
 <h4>Dropdown Menu:</h4>
 
-Initially hidden, transitions in height, are displayed in mobile view.
+- Initially hidden, transitions in height, are displayed in mobile view.
 
 <h4>Hero Section:</h4>
 
-Full-screen section with centered text.
+- Full-screen section with centered text.
 
 <h4>Responsive Design:</h4>
 
