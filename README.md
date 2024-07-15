@@ -41,7 +41,7 @@
 
 <h4>Toggle Button:</h4>
 
-- Toggles the dropdown menu visibility and changes the icon between hamburger and close (X) on click.
+- Toggles the dropdown menu visibility and changes the icon between hamburger and close (X) on click. <br>
 
 ![image](https://github.com/user-attachments/assets/24feefc0-f91f-4029-b047-0d5d727c8eaa)
 
