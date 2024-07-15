@@ -36,7 +36,7 @@
 <h4>Responsive Design:</h4>
 
 - Media queries to toggle visibility of navbar links and dropdown menu on smaller screens.
-- 
+
 <h2>JavaScript</h2>
 
 <h4>Toggle Button:</h4>
