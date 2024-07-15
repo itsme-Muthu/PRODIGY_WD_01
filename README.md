@@ -4,8 +4,7 @@
           
 <h4>Header:</h4>
 
-
-Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.<br>
+<br>Navbar with logo, navigation links (HOME, ABOUT, SERVICES, LEARN, CONTACT), action button ("Get Started"), and toggle button for mobile view.<br>
 Dropdown menu for mobile navigation.
 
 <h4>Main Section:</h4>
@@ -21,7 +20,7 @@ Black background with space image for the body.
 
 <h4>Header and Navbar:</h4>
 
-<h4>Flexbox layout for alignment.</h4>
+Flexbox layout for alignment.<br>
 Navbar links and action buttons are styled for desktop and hidden in mobile.
 
 <h4>Dropdown Menu:</h4>
