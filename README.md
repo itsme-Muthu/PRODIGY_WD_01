@@ -1,4 +1,4 @@
-# PRODIGY_WD_01 - Prodigy Web Development Internship - Task 01
+# PRODIGY_WD_01 - Prodigy Web Development Internship - Task 01 - Responsive Landing Page
 
 <h2>HTML</h2
           
